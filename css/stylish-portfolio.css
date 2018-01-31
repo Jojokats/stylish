@@ -164,7 +164,9 @@ h6 {
   .menu-toggle:hover {
     background: #343a40; }
 
-.service-icon {
+#services h3 {
+  letter-spacing: 2px; }
+#services .service-icon {
   background-color: #fff;
   color: #FFC857;
   height: 7rem;
@@ -176,13 +178,13 @@ h6 {
 
 .callout {
   padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-callout.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../images/rect-3.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover; }
   .callout h2 {
     font-size: 3.5rem;
-    font-weight: 700;
+    font-weight: 400;
     display: block;
     max-width: 30rem; }
 
